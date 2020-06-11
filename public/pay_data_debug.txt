@@ -1,0 +1,100 @@
+Array
+(
+    [txid] => 301904
+    [txref] => asdf123_1541143212190
+    [flwref] => FLW-MOCK-53221c9ad357a181d913886c96848a58
+    [devicefingerprint] => 12a529414c12b3a156df8fa24a7917ef
+    [cycle] => one-time
+    [amount] => 300
+    [currency] => NGN
+    [chargedamount] => 300
+    [appfee] => 4.2
+    [merchantfee] => 0
+    [merchantbearsfee] => 1
+    [chargecode] => 00
+    [chargemessage] => Please enter the OTP sent to your mobile number 080****** and email te**@rave**.com
+    [authmodel] => PIN
+    [ip] => 160.202.160.104
+    [narration] => CARD Transaction 
+    [status] => successful
+    [vbvcode] => 00
+    [vbvmessage] => successful
+    [authurl] => N/A
+    [acctcode] => 
+    [acctmessage] => 
+    [paymenttype] => card
+    [paymentid] => 861
+    [fraudstatus] => ok
+    [chargetype] => normal
+    [createdday] => 4
+    [createddayname] => THURSDAY
+    [createdweek] => 44
+    [createdmonth] => 10
+    [createdmonthname] => NOVEMBER
+    [createdquarter] => 4
+    [createdyear] => 2018
+    [createdyearisleap] => 
+    [createddayispublicholiday] => 0
+    [createdhour] => 15
+    [createdminute] => 21
+    [createdpmam] => pm
+    [created] => 2018-11-01T15:21:17.000Z
+    [customerid] => 59815
+    [custphone] => 
+    [custnetworkprovider] => N/A
+    [custname] => Anonymous customer
+    [custemail] => dongjin84229@gmail.com
+    [custemailprovider] => GMAIL
+    [custcreated] => 2018-11-01T15:21:17.000Z
+    [accountid] => 10445
+    [acctbusinessname] => spin wheel game
+    [acctcontactperson] => spin test
+    [acctcountry] => NG
+    [acctbearsfeeattransactiontime] => 1
+    [acctparent] => 1
+    [acctvpcmerchant] => N/A
+    [acctalias] => 
+    [acctisliveapproved] => 0
+    [orderref] => URF_1541085677570_3135
+    [paymentplan] => 
+    [paymentpage] => 
+    [raveref] => RV3154108567654559F88609AC
+    [amountsettledforthistransaction] => 295.8
+    [card] => Array
+        (
+            [expirymonth] => 09
+            [expiryyear] => 19
+            [cardBIN] => 543889
+            [last4digits] => 0229
+            [brand] => MASHREQ BANK CREDITSTANDARD
+            [card_tokens] => Array
+                (
+                    [0] => Array
+                        (
+                            [embedtoken] => flw-t1nf-4aa986b4908e976a5e91a7bfb662e73e-m03k
+                            [shortcode] => aba51
+                            [expiry] => 9999999999999
+                        )
+
+                )
+
+            [type] => MASTERCARD
+            [life_time_token] => flw-t1nf-4aa986b4908e976a5e91a7bfb662e73e-m03k
+        )
+
+    [meta] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1246573
+                    [metaname] => flightID
+                    [metavalue] => AP1234
+                    [createdAt] => 2018-11-01T15:21:18.000Z
+                    [updatedAt] => 2018-11-01T15:21:18.000Z
+                    [deletedAt] => 
+                    [getpaidTransactionId] => 301904
+                )
+
+        )
+
+)

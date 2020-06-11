@@ -1,0 +1,50 @@
+.sound-icon-container {
+    position: absolute;
+    /*background-color: #6f000c;*/
+    z-index: 250;
+    right: 35px;
+    top: 145px;
+    text-align: center;
+    padding-top: 12px;
+    border-radius: 50%;
+}
+
+
+/* .sound-icon-container img { */
+
+
+/*width: 35px;*/
+
+
+/* } */
+
+@media(max-width: 991px) {
+    .sound-icon-container {
+        width: 45px;
+        height: 45px;
+        top: 145px;
+    }
+    .sound-icon-container img {
+        width: 45px;
+    }
+}
+
+@media(max-width: 767px) {
+    .sound-icon-container {
+        width: 30px;
+        height: 30px;
+        top: 110px;
+        right: 42px;
+        padding-top: 6px;
+    }
+    /* .sound-icon-container img { */
+    /*width: 30px;*/
+    /* } */
+}
+
+@media(max-width: 359px) {
+    .sound-icon-container {
+        right: 3px;
+        top: 80px;
+    }
+}
